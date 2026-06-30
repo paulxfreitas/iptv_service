@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1,AXN_HD
-143.14.178.40:7777/AXN_HD/index.m3u8
-#EXTINF:-1,Animal_Planet_HD
-143.14.178.40:7777/Animal_Planet_HD/index.m3u8
-#EXTINF:-1,Cinemax_HD
-143.14.178.40:7777/Cinemax_HD/index.m3u8
-#EXTINF:-1,Food_Network_HD
-143.14.178.40:7777/Food_Network_HD/index.m3u8
-#EXTINF:-1,TLC_HD
-143.14.178.40:7777/TLC_HD/index.m3u8
-#EXTINF:-1,Gloob_HD
-143.14.178.40:7777/Gloob_HD/index.m3u8
-#EXTINF:-1,BIS_HD
-143.14.178.40:7777/BIS_HD/index.m3u8
-#EXTINF:-1,Arte_1_HD
-143.14.178.40:7777/Arte_1_HD/index.m3u8
-#EXTINF:-1,Studio_Universal_HD
-143.14.178.40:7777/Studio_Universal_HD/index.m3u8
-#EXTINF:-1,Combate_HD
-143.14.178.40:7777/Combate_HD/index.m3u8
-#EXTINF:-1,ESPN_HD
-143.14.178.40:7777/ESPN_HD/index.m3u8
-#EXTINF:-1,SPACE
-143.14.178.40:7777/SPACE/index.m3u8
-#EXTINF:-1,Discovery_Science_HD
-143.14.178.40:7777/Discovery_Science_HD/index.m3u8
-#EXTINF:-1,Multishow
-143.14.178.40:7777/Multishow_HD/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br",AXN
+http://143.14.178.40:7777/AXN_HD/index.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.br",Animal Planet
+http://143.14.178.40:7777/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br",Cinemax
+http://143.14.178.40:7777/Cinemax_HD/index.m3u8
+#EXTINF:-1,Food Network
+http://143.14.178.40:7777/Food_Network_HD/index.m3u8
+#EXTINF:-1 tvg-id="TLC.br",TLC
+http://143.14.178.40:7777/TLC_HD/index.m3u8
+#EXTINF:-1 tvg-id="Gloob.br",Gloob
+http://143.14.178.40:7777/Gloob_HD/index.m3u8
+#EXTINF:-1 tvg-id="Bis.br",Bis
+http://143.14.178.40:7777/BIS_HD/index.m3u8
+#EXTINF:-1 tvg-id="Arte.1.br",Arte 1
+http://143.14.178.40:7777/Arte_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="Studio.Universal.br",Studio Universal
+http://143.14.178.40:7777/Studio_Universal_HD/index.m3u8
+#EXTINF:-1 tvg-id="Combate.br",Combate
+http://143.14.178.40:7777/Combate_HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br",ESPN
+http://143.14.178.40:7777/ESPN_HD/index.m3u8
+#EXTINF:-1 tvg-id="SPACE.br",Space
+http://143.14.178.40:7777/SPACE/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Science.br",Discovery Science
+http://143.14.178.40:7777/Discovery_Science_HD/index.m3u8
+#EXTINF:-1 tvg-id="Multishow.br",Multishow
+http://143.14.178.40:7777/Multishow_HD/index.m3u8
 #EXTINF:-1,Cartoonito
-143.14.178.40:7777/Cartoonito_HD/index.m3u8
-#EXTINF:-1,Food_Network
-143.14.178.40:7777/Food_Network_HD/index.m3u8
+http://143.14.178.40:7777/Cartoonito_HD/index.m3u8
+#EXTINF:-1,Food Network
+http://143.14.178.40:7777/Food_Network_HD/index.m3u8
 #EXTINF:-1,HGTV
-143.14.178.40:7777/HGTV_HD/index.m3u8
-#EXTINF:-1,Lifetime
-143.14.178.40:7777/Lifetime_HD/index.m3u8
-#EXTINF:-1,Woohoo
-143.14.178.40:7777/Woohoo_HD/index.m3u8
-#EXTINF:-1,Megapix
-143.14.178.40:7777/Megapix_HD/index.m3u8
-#EXTINF:-1,BIS
-143.14.178.40:7777/BIS_HD/index.m3u8
-#EXTINF:-1,AMC
-143.14.178.40:7777/AMC_HD/index.m3u8
-#EXTINF:-1,Discovery_World
-143.14.178.40:7777/Discovery_World_HD/index.m3u8
-#EXTINF:-1,E!
-143.14.178.40:7777/E!_HD/index.m3u8
-#EXTINF:-1,TNT
-143.14.178.40:7777/TNT_HD/index.m3u8
-#EXTINF:-1,Discovery_Kids
-143.14.178.40:7777/Discovery_Kids_HD/index.m3u8
-#EXTINF:-1,ESPN_2
-143.14.178.40:7777/ESPN_2_HD/index.m3u8
-#EXTINF:-1,Music_Box
-143.14.178.40:7777/Music_Box_HD/index.m3u8
-#EXTINF:-1,Discovery_Turbo
-143.14.178.40:7777/Discovery_Turbo_HD/index.m3u8
+http://143.14.178.40:7777/HGTV_HD/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br",Lifetime
+http://143.14.178.40:7777/Lifetime_HD/index.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br",Woohoo
+http://143.14.178.40:7777/Woohoo_HD/index.m3u8
+#EXTINF:-1 tvg-id="Megapix.br",Megapix
+http://143.14.178.40:7777/Megapix_HD/index.m3u8
+#EXTINF:-1 tvg-id="Bis.br",Bis
+http://143.14.178.40:7777/BIS_HD/index.m3u8
+#EXTINF:-1 tvg-id="AMC.br",AMC
+http://143.14.178.40:7777/AMC_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.World.br",Discovery World
+http://143.14.178.40:7777/Discovery_World_HD/index.m3u8
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.br",E!
+http://143.14.178.40:7777/E!_HD/index.m3u8
+#EXTINF:-1 tvg-id="TNT.br",TNT
+http://143.14.178.40:7777/TNT_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Kids.br",Discovery Kids
+http://143.14.178.40:7777/Discovery_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.br",ESPN 2
+http://143.14.178.40:7777/ESPN_2_HD/index.m3u8
+#EXTINF:-1,Music Box
+http://143.14.178.40:7777/Music_Box_HD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Turbo.br",Discovery Turbo
+http://143.14.178.40:7777/Discovery_Turbo_HD/index.m3u8
